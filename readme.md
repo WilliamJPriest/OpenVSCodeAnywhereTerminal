@@ -1,12 +1,26 @@
-Make sure to check this VSCode path is correct your windows machine.
+# **Open VSC Anywhere
+---
 
-**How To**
+The quickest way to open VSC
 
-- Edit the path below to match your VSC Location, look for the first line in the func Main 
+## **Basic Setup**
+---
 
-**Find Your Path**
+Make sure you have GO installed and then follow these steps:
 
-- you can hover over the VSC shortcut to see the path or 
+1. Git clone https://github.com/WilliamJPriest/OpenVSCodeAnywhereTerminal
 
+2. in the cloned directory type go build
 
-To open Vscode from anywhere, make sure to follow steps 2-6: https://go.dev/doc/tutorial/compile-install
+3. After the build phase type go install
+
+4. to run the program type checklist
+
+5. Ta Da, everything should be working.
+
+If an issue with install arises, please check the docs [here](https://go.dev/doc/tutorial/compile-install) 
+
+* **Any Issues**
+
+- Feel free to make a github issue and reach out
+
