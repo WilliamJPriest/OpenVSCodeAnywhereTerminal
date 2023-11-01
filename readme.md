@@ -22,5 +22,5 @@ If an issue with install arises, please check the docs [here](https://go.dev/doc
 
 * **Any Issues**
 
-- Feel free to make a github issue and reach out
+- Feel free to make a github issue to reach out
 
