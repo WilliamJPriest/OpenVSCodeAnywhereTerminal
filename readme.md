@@ -1,7 +1,7 @@
 # **Open VSC Anywhere
 ---
 
-The quickest way to open VSC
+The quickest way to open VSCode
 
 ## **Basic Setup**
 ---
