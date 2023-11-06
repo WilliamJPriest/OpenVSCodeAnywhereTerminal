@@ -14,7 +14,7 @@ Make sure you have GO installed and then follow these steps:
 
 3. After the build phase type go install
 
-4. to run the program type checklist
+4. to run the program type vsc
 
 5. Ta Da, everything should be working.
 
